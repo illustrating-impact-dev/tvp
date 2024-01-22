@@ -1,0 +1,72 @@
+[
+  {
+    "measure": "Violence with injury",
+    "subheader": "VIOLENT CRIMES",
+    "measure_id": 1
+  },
+  {
+    "measure": "Violence without injury",
+    "subheader": "VIOLENT CRIMES",
+    "measure_id": 2
+  },
+  {
+    "measure": "Theft involving vehicles",
+    "subheader": "BURGLARY, THEFT AND FRAUD",
+    "measure_id": 3
+  },
+  {
+    "measure": "Residential burglary",
+    "subheader": "BURGLARY, THEFT AND FRAUD",
+    "measure_id": 4
+  },
+  {
+    "measure": "Shoplifting",
+    "subheader": "BURGLARY, THEFT AND FRAUD",
+    "measure_id": 5
+  },
+  {
+    "measure": "Action Fraud",
+    "subheader": "BURGLARY, THEFT AND FRAUD",
+    "measure_id": 6
+  },
+  {
+    "measure": "Anti-Social Behaviour",
+    "subheader": "PUBLIC ORDER",
+    "measure_id": 7
+  },
+  {
+    "measure": "Stop and Search",
+    "subheader": "PUBLIC ORDER",
+    "measure_id": 8
+  },
+  {
+    "measure": "Overall calls",
+    "subheader": "101 / 999 CALLS",
+    "measure_id": 9
+  },
+  {
+    "measure": "Call performance",
+    "subheader": "101 / 999 CALLS",
+    "measure_id": 10
+  },
+  {
+    "measure": "Fear of crime",
+    "subheader": "CRIME SURVEY",
+    "measure_id": 11
+  },
+  {
+    "measure": "Trust in policing",
+    "subheader": "CRIME SURVEY",
+    "measure_id": 12
+  },
+  {
+    "measure": "Public confidence",
+    "subheader": "BUILDING CONFIDENCE",
+    "measure_id": 13
+  },
+  {
+    "measure": "Officer numbers",
+    "subheader": "BUILDING CONFIDENCE",
+    "measure_id": 14
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "measure_id": 1,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 1,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 1,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 1,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 1,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 1,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 1,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 1,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 2,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 2,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 2,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 2,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 2,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 2,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 2,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 2,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 3,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 3,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 3,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 3,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 3,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 3,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 3,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 3,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 4,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 4,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 4,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 4,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 4,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 4,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 4,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 4,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 5,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 5,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 5,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 5,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 5,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 5,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 5,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 5,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 6,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 6,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 6,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 6,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 6,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 6,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 6,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 6,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 7,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 7,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 7,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 7,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 7,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 7,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 7,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 7,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 8,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 8,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 8,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 8,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 8,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 8,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 8,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 8,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 9,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 9,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 9,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 9,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 9,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 9,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 9,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 9,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 10,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 10,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 10,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 10,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 10,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 10,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 10,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 10,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 11,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 11,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 11,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 11,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 11,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 11,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 11,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 11,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 12,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 12,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 12,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 12,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 12,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 12,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 12,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 12,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 13,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 13,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 13,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 13,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 13,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 13,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 13,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 13,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  },
+  {
+    "measure_id": 14,
+    "content_id": 1,
+    "input_text": 37
+  },
+  {
+    "measure_id": 14,
+    "content_id": 2,
+    "input_text": "/1000 population"
+  },
+  {
+    "measure_id": 14,
+    "content_id": 3,
+    "input_text": "Q4 2023"
+  },
+  {
+    "measure_id": 14,
+    "content_id": 4,
+    "input_text": -2.1
+  },
+  {
+    "measure_id": 14,
+    "content_id": 5,
+    "input_text": "vs same quarter 2022 (39.1 per 1,000 population)"
+  },
+  {
+    "measure_id": 14,
+    "content_id": 6,
+    "input_text": 3.2
+  },
+  {
+    "measure_id": 14,
+    "content_id": 7,
+    "input_text": "vs Latest National (Year to June 2023 - 33.5 per 1,000)"
+  },
+  {
+    "measure_id": 14,
+    "content_id": 8,
+    "input_text": "59,123 recorded crimes in Q4 2023"
+  }
+]

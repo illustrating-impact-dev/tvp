@@ -1,0 +1,872 @@
+[
+  {
+    "measure_id": 1,
+    "month": "J1",
+    "value": 73
+  },
+  {
+    "measure_id": 1,
+    "month": "F",
+    "value": 30
+  },
+  {
+    "measure_id": 1,
+    "month": "M1",
+    "value": 65
+  },
+  {
+    "measure_id": 1,
+    "month": "A1",
+    "value": 91
+  },
+  {
+    "measure_id": 1,
+    "month": "M2",
+    "value": 82
+  },
+  {
+    "measure_id": 1,
+    "month": "J2",
+    "value": 84
+  },
+  {
+    "measure_id": 1,
+    "month": "J3",
+    "value": 73
+  },
+  {
+    "measure_id": 1,
+    "month": "A1",
+    "value": 48
+  },
+  {
+    "measure_id": 1,
+    "month": "S",
+    "value": 79
+  },
+  {
+    "measure_id": 1,
+    "month": "O",
+    "value": 83
+  },
+  {
+    "measure_id": 1,
+    "month": "N",
+    "value": 88
+  },
+  {
+    "measure_id": 1,
+    "month": "D",
+    "value": 57
+  },
+  {
+    "measure_id": 2,
+    "month": "J1",
+    "value": 44
+  },
+  {
+    "measure_id": 2,
+    "month": "F",
+    "value": 99
+  },
+  {
+    "measure_id": 2,
+    "month": "M1",
+    "value": 96
+  },
+  {
+    "measure_id": 2,
+    "month": "A1",
+    "value": 61
+  },
+  {
+    "measure_id": 2,
+    "month": "M2",
+    "value": 45
+  },
+  {
+    "measure_id": 2,
+    "month": "J2",
+    "value": 64
+  },
+  {
+    "measure_id": 2,
+    "month": "J3",
+    "value": 14
+  },
+  {
+    "measure_id": 2,
+    "month": "A1",
+    "value": 80
+  },
+  {
+    "measure_id": 2,
+    "month": "S",
+    "value": 87
+  },
+  {
+    "measure_id": 2,
+    "month": "O",
+    "value": 24
+  },
+  {
+    "measure_id": 2,
+    "month": "N",
+    "value": 74
+  },
+  {
+    "measure_id": 2,
+    "month": "D",
+    "value": 87
+  },
+  {
+    "measure_id": 3,
+    "month": "J1",
+    "value": 63
+  },
+  {
+    "measure_id": 3,
+    "month": "F",
+    "value": 80
+  },
+  {
+    "measure_id": 3,
+    "month": "M1",
+    "value": 10
+  },
+  {
+    "measure_id": 3,
+    "month": "A1",
+    "value": 97
+  },
+  {
+    "measure_id": 3,
+    "month": "M2",
+    "value": 57
+  },
+  {
+    "measure_id": 3,
+    "month": "J2",
+    "value": 47
+  },
+  {
+    "measure_id": 3,
+    "month": "J3",
+    "value": 35
+  },
+  {
+    "measure_id": 3,
+    "month": "A1",
+    "value": 48
+  },
+  {
+    "measure_id": 3,
+    "month": "S",
+    "value": 28
+  },
+  {
+    "measure_id": 3,
+    "month": "O",
+    "value": 64
+  },
+  {
+    "measure_id": 3,
+    "month": "N",
+    "value": 90
+  },
+  {
+    "measure_id": 3,
+    "month": "D",
+    "value": 75
+  },
+  {
+    "measure_id": 4,
+    "month": "J1",
+    "value": 24
+  },
+  {
+    "measure_id": 4,
+    "month": "F",
+    "value": 76
+  },
+  {
+    "measure_id": 4,
+    "month": "M1",
+    "value": 81
+  },
+  {
+    "measure_id": 4,
+    "month": "A1",
+    "value": 99
+  },
+  {
+    "measure_id": 4,
+    "month": "M2",
+    "value": 25
+  },
+  {
+    "measure_id": 4,
+    "month": "J2",
+    "value": 82
+  },
+  {
+    "measure_id": 4,
+    "month": "J3",
+    "value": 13
+  },
+  {
+    "measure_id": 4,
+    "month": "A1",
+    "value": 30
+  },
+  {
+    "measure_id": 4,
+    "month": "S",
+    "value": 84
+  },
+  {
+    "measure_id": 4,
+    "month": "O",
+    "value": 15
+  },
+  {
+    "measure_id": 4,
+    "month": "N",
+    "value": 51
+  },
+  {
+    "measure_id": 4,
+    "month": "D",
+    "value": 99
+  },
+  {
+    "measure_id": 5,
+    "month": "J1",
+    "value": 30
+  },
+  {
+    "measure_id": 5,
+    "month": "F",
+    "value": 21
+  },
+  {
+    "measure_id": 5,
+    "month": "M1",
+    "value": 98
+  },
+  {
+    "measure_id": 5,
+    "month": "A1",
+    "value": 68
+  },
+  {
+    "measure_id": 5,
+    "month": "M2",
+    "value": 53
+  },
+  {
+    "measure_id": 5,
+    "month": "J2",
+    "value": 67
+  },
+  {
+    "measure_id": 5,
+    "month": "J3",
+    "value": 44
+  },
+  {
+    "measure_id": 5,
+    "month": "A1",
+    "value": 94
+  },
+  {
+    "measure_id": 5,
+    "month": "S",
+    "value": 90
+  },
+  {
+    "measure_id": 5,
+    "month": "O",
+    "value": 15
+  },
+  {
+    "measure_id": 5,
+    "month": "N",
+    "value": 42
+  },
+  {
+    "measure_id": 5,
+    "month": "D",
+    "value": 38
+  },
+  {
+    "measure_id": 6,
+    "month": "J1",
+    "value": 89
+  },
+  {
+    "measure_id": 6,
+    "month": "F",
+    "value": 67
+  },
+  {
+    "measure_id": 6,
+    "month": "M1",
+    "value": 33
+  },
+  {
+    "measure_id": 6,
+    "month": "A1",
+    "value": 92
+  },
+  {
+    "measure_id": 6,
+    "month": "M2",
+    "value": 28
+  },
+  {
+    "measure_id": 6,
+    "month": "J2",
+    "value": 35
+  },
+  {
+    "measure_id": 6,
+    "month": "J3",
+    "value": 40
+  },
+  {
+    "measure_id": 6,
+    "month": "A1",
+    "value": 36
+  },
+  {
+    "measure_id": 6,
+    "month": "S",
+    "value": 62
+  },
+  {
+    "measure_id": 6,
+    "month": "O",
+    "value": 50
+  },
+  {
+    "measure_id": 6,
+    "month": "N",
+    "value": 58
+  },
+  {
+    "measure_id": 6,
+    "month": "D",
+    "value": 32
+  },
+  {
+    "measure_id": 7,
+    "month": "J1",
+    "value": 17
+  },
+  {
+    "measure_id": 7,
+    "month": "F",
+    "value": 93
+  },
+  {
+    "measure_id": 7,
+    "month": "M1",
+    "value": 46
+  },
+  {
+    "measure_id": 7,
+    "month": "A1",
+    "value": 66
+  },
+  {
+    "measure_id": 7,
+    "month": "M2",
+    "value": 58
+  },
+  {
+    "measure_id": 7,
+    "month": "J2",
+    "value": 94
+  },
+  {
+    "measure_id": 7,
+    "month": "J3",
+    "value": 69
+  },
+  {
+    "measure_id": 7,
+    "month": "A1",
+    "value": 50
+  },
+  {
+    "measure_id": 7,
+    "month": "S",
+    "value": 94
+  },
+  {
+    "measure_id": 7,
+    "month": "O",
+    "value": 21
+  },
+  {
+    "measure_id": 7,
+    "month": "N",
+    "value": 51
+  },
+  {
+    "measure_id": 7,
+    "month": "D",
+    "value": 18
+  },
+  {
+    "measure_id": 8,
+    "month": "J1",
+    "value": 52
+  },
+  {
+    "measure_id": 8,
+    "month": "F",
+    "value": 51
+  },
+  {
+    "measure_id": 8,
+    "month": "M1",
+    "value": 87
+  },
+  {
+    "measure_id": 8,
+    "month": "A1",
+    "value": 25
+  },
+  {
+    "measure_id": 8,
+    "month": "M2",
+    "value": 68
+  },
+  {
+    "measure_id": 8,
+    "month": "J2",
+    "value": 66
+  },
+  {
+    "measure_id": 8,
+    "month": "J3",
+    "value": 95
+  },
+  {
+    "measure_id": 8,
+    "month": "A1",
+    "value": 42
+  },
+  {
+    "measure_id": 8,
+    "month": "S",
+    "value": 97
+  },
+  {
+    "measure_id": 8,
+    "month": "O",
+    "value": 11
+  },
+  {
+    "measure_id": 8,
+    "month": "N",
+    "value": 23
+  },
+  {
+    "measure_id": 8,
+    "month": "D",
+    "value": 42
+  },
+  {
+    "measure_id": 9,
+    "month": "J1",
+    "value": 74
+  },
+  {
+    "measure_id": 9,
+    "month": "F",
+    "value": 59
+  },
+  {
+    "measure_id": 9,
+    "month": "M1",
+    "value": 52
+  },
+  {
+    "measure_id": 9,
+    "month": "A1",
+    "value": 40
+  },
+  {
+    "measure_id": 9,
+    "month": "M2",
+    "value": 22
+  },
+  {
+    "measure_id": 9,
+    "month": "J2",
+    "value": 76
+  },
+  {
+    "measure_id": 9,
+    "month": "J3",
+    "value": 21
+  },
+  {
+    "measure_id": 9,
+    "month": "A1",
+    "value": 96
+  },
+  {
+    "measure_id": 9,
+    "month": "S",
+    "value": 58
+  },
+  {
+    "measure_id": 9,
+    "month": "O",
+    "value": 74
+  },
+  {
+    "measure_id": 9,
+    "month": "N",
+    "value": 31
+  },
+  {
+    "measure_id": 9,
+    "month": "D",
+    "value": 20
+  },
+  {
+    "measure_id": 10,
+    "month": "J1",
+    "value": 81
+  },
+  {
+    "measure_id": 10,
+    "month": "F",
+    "value": 34
+  },
+  {
+    "measure_id": 10,
+    "month": "M1",
+    "value": 74
+  },
+  {
+    "measure_id": 10,
+    "month": "A1",
+    "value": 12
+  },
+  {
+    "measure_id": 10,
+    "month": "M2",
+    "value": 44
+  },
+  {
+    "measure_id": 10,
+    "month": "J2",
+    "value": 24
+  },
+  {
+    "measure_id": 10,
+    "month": "J3",
+    "value": 41
+  },
+  {
+    "measure_id": 10,
+    "month": "A1",
+    "value": 92
+  },
+  {
+    "measure_id": 10,
+    "month": "S",
+    "value": 89
+  },
+  {
+    "measure_id": 10,
+    "month": "O",
+    "value": 41
+  },
+  {
+    "measure_id": 10,
+    "month": "N",
+    "value": 89
+  },
+  {
+    "measure_id": 10,
+    "month": "D",
+    "value": 15
+  },
+  {
+    "measure_id": 11,
+    "month": "J1",
+    "value": 15
+  },
+  {
+    "measure_id": 11,
+    "month": "F",
+    "value": 51
+  },
+  {
+    "measure_id": 11,
+    "month": "M1",
+    "value": 97
+  },
+  {
+    "measure_id": 11,
+    "month": "A1",
+    "value": 38
+  },
+  {
+    "measure_id": 11,
+    "month": "M2",
+    "value": 63
+  },
+  {
+    "measure_id": 11,
+    "month": "J2",
+    "value": 32
+  },
+  {
+    "measure_id": 11,
+    "month": "J3",
+    "value": 16
+  },
+  {
+    "measure_id": 11,
+    "month": "A1",
+    "value": 39
+  },
+  {
+    "measure_id": 11,
+    "month": "S",
+    "value": 44
+  },
+  {
+    "measure_id": 11,
+    "month": "O",
+    "value": 82
+  },
+  {
+    "measure_id": 11,
+    "month": "N",
+    "value": 33
+  },
+  {
+    "measure_id": 11,
+    "month": "D",
+    "value": 11
+  },
+  {
+    "measure_id": 12,
+    "month": "J1",
+    "value": 48
+  },
+  {
+    "measure_id": 12,
+    "month": "F",
+    "value": 83
+  },
+  {
+    "measure_id": 12,
+    "month": "M1",
+    "value": 23
+  },
+  {
+    "measure_id": 12,
+    "month": "A1",
+    "value": 33
+  },
+  {
+    "measure_id": 12,
+    "month": "M2",
+    "value": 43
+  },
+  {
+    "measure_id": 12,
+    "month": "J2",
+    "value": 61
+  },
+  {
+    "measure_id": 12,
+    "month": "J3",
+    "value": 73
+  },
+  {
+    "measure_id": 12,
+    "month": "A1",
+    "value": 41
+  },
+  {
+    "measure_id": 12,
+    "month": "S",
+    "value": 22
+  },
+  {
+    "measure_id": 12,
+    "month": "O",
+    "value": 20
+  },
+  {
+    "measure_id": 12,
+    "month": "N",
+    "value": 51
+  },
+  {
+    "measure_id": 12,
+    "month": "D",
+    "value": 30
+  },
+  {
+    "measure_id": 13,
+    "month": "J1",
+    "value": 45
+  },
+  {
+    "measure_id": 13,
+    "month": "F",
+    "value": 52
+  },
+  {
+    "measure_id": 13,
+    "month": "M1",
+    "value": 32
+  },
+  {
+    "measure_id": 13,
+    "month": "A1",
+    "value": 50
+  },
+  {
+    "measure_id": 13,
+    "month": "M2",
+    "value": 37
+  },
+  {
+    "measure_id": 13,
+    "month": "J2",
+    "value": 55
+  },
+  {
+    "measure_id": 13,
+    "month": "J3",
+    "value": 61
+  },
+  {
+    "measure_id": 13,
+    "month": "A1",
+    "value": 84
+  },
+  {
+    "measure_id": 13,
+    "month": "S",
+    "value": 96
+  },
+  {
+    "measure_id": 13,
+    "month": "O",
+    "value": 97
+  },
+  {
+    "measure_id": 13,
+    "month": "N",
+    "value": 92
+  },
+  {
+    "measure_id": 13,
+    "month": "D",
+    "value": 92
+  },
+  {
+    "measure_id": 14,
+    "month": "J1",
+    "value": 37
+  },
+  {
+    "measure_id": 14,
+    "month": "F",
+    "value": 65
+  },
+  {
+    "measure_id": 14,
+    "month": "M1",
+    "value": 74
+  },
+  {
+    "measure_id": 14,
+    "month": "A1",
+    "value": 13
+  },
+  {
+    "measure_id": 14,
+    "month": "M2",
+    "value": 85
+  },
+  {
+    "measure_id": 14,
+    "month": "J2",
+    "value": 56
+  },
+  {
+    "measure_id": 14,
+    "month": "J3",
+    "value": 18
+  },
+  {
+    "measure_id": 14,
+    "month": "A1",
+    "value": 74
+  },
+  {
+    "measure_id": 14,
+    "month": "S",
+    "value": 86
+  },
+  {
+    "measure_id": 14,
+    "month": "O",
+    "value": 60
+  },
+  {
+    "measure_id": 14,
+    "month": "N",
+    "value": 92
+  },
+  {
+    "measure_id": 14,
+    "month": "D",
+    "value": 99
+  },
+  {
+    "measure_id": "",
+    "month": "",
+    "value": ""
+  },
+  {
+    "measure_id": "",
+    "month": "",
+    "value": ""
+  },
+  {
+    "measure_id": "",
+    "month": "",
+    "value": ""
+  },
+  {
+    "measure_id": "",
+    "month": "",
+    "value": ""
+  },
+  {
+    "measure_id": "",
+    "month": "",
+    "value": ""
+  },
+  {
+    "measure_id": "",
+    "month": "",
+    "value": ""
+  }
+]
